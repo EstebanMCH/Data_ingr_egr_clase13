@@ -1,6 +1,6 @@
-﻿Fecha_Registro;Fecha;Categoria;Subcategoria;Monto;Moneda;Metodo;Descripcion
-11/6/2024;10/6/2024;Mascota;Alimentacion;20000;Colones;Credito;Alimento Kony
-11/6/2024;10/6/2024;Vestimenta;Trabajo;25;Dolares;Sinpe;Camisa para trabajo
-11/6/2024;8/6/2024;Pago;Celular;12000;Colones;Banco;Paso recibo de celular
-11/6/2024;7/6/2024;Transporte;Uber;3000;Colones;Debito;Uber casa a trabajo
-11/6/2024;7/6/2024;Transporte;Uber;4500;Colones;Debito;Uber trabajo a casa
+﻿Fecha_Registro,Fecha,Categoria,Subcategoria,Monto,Moneda,Metodo,Descripcion
+11/6/2024,10/6/2024,Mascota,Alimentacion,20000,Colones,Credito,Alimento Kony
+11/6/2024,10/6/2024,Vestimenta,Trabajo,25,Dolares,Sinpe,Camisa para trabajo
+11/6/2024,8/6/2024,Pago,Celular,12000,Colones,Banco,Paso recibo de celular
+11/6/2024,7/6/2024,Transporte,Uber,3000,Colones,Debito,Uber casa a trabajo
+11/6/2024,7/6/2024,Transporte,Uber,4500,Colones,Debito,Uber trabajo a casa
